@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Jackson Moura 👋
 
-<!--
-**jackson1712/jackson1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About
+I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) and Systems Analysis and
+development at [Unifatecie](https://unifatecie.edu.br/)
 
-Here are some ideas to get you started:
+##### Current Stack
+- 🔥 Main language: `JavaScript`
+- ⚙️ Backend: `Nodejs`
+- 🎉 Frontend:`Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `VS Code`, `Markdown`
+- 🌍 I'm an active user in the rocketseat community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Contact
+- 📬 Email: jackson1712@hotmail.com
+- 👤 Linkedin: [Linkedin](https://www.linkedin.com/in/jackson-moura-a43350246/)
