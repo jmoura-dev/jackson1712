@@ -6,7 +6,7 @@ development at [Unifatecie](https://unifatecie.edu.br/)
 
 ##### Current Stack
 - 🔥 Main language: `JavaScript`
-- ⚙️ Backend: `Nodejs`
+- ⚙️ Backend: `Nodejs`, `SQL`
 - 🎉 Frontend:`Reactjs`, `HTML5`, `CSS3`, `JavaScript`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
