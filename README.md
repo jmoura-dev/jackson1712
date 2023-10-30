@@ -6,8 +6,8 @@ development at [Unifatecie](https://unifatecie.edu.br/)
 
 ##### Current Stack
 - 🔥 Main language: `JavaScript`
-- ⚙️ Backend: `Nodejs`, `Express/Fastify`, `SQL`, `Knex`, `PrismaORM`, `JavaScript`, `Typescript`, `Docker`
-- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`, `Styled-components`, `Stitches`, `Tailwind`
+- ⚙️ Backend: `Nodejs`, `Express/Fastify`, `SQL`, `Knex`, `PrismaORM`, `JavaScript`, `Typescript`, `Docker`, `Nestjs`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`, `Styled-components`, `Stitches`, `Tailwind`, `Typescript`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VS Code`
