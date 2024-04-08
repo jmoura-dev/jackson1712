@@ -1,7 +1,7 @@
 ### Hi there, I'm Jackson Moura 👋
 
 ##### About
-I'm Web Developer. Too, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) and Systems Analysis and
+I've been a web developer for about 2 years.. Too, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) and Systems Analysis and
 development at [Unifatecie](https://unifatecie.edu.br/)
 
 ##### Current Stack
